@@ -1,0 +1,12 @@
+{
+  "name": "24-moreconditionaltest",
+  "version": "1.0.0",
+  "description": "multiple conditionaltests",
+  "main": "condtest.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayaz ahmed",
+  "license": "MIT"
+}
