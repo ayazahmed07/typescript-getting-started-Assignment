@@ -34,3 +34,6 @@ new_users.forEach((newUser) => {
     console.log(`The username ${newUser} is available`);
   }
 });
+
+
+
