@@ -5,7 +5,7 @@ let magicians_names: string[] = ["Rock", "Salt", "Pepper"];
 
 function showmagicians() {
     for (let i = 0; i < 3; i++) {
-        console.log(magicians_names[i])
+        console.log(magicians_names[i] )
     }
 };
 
